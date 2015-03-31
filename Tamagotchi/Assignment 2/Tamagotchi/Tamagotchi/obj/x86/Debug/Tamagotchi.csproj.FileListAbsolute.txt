@@ -1,0 +1,35 @@
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Properties.Resources.resources
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.exe
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.pdb
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form1.resources
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form2.resources
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.exe
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.pdb
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\ResolveAssemblyReference.cache
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form1.resources
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form2.resources
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Properties.Resources.resources
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\GenerateResource.read.1.tlog
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\GenerateResource.write.1.tlog
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+\\anglia.local\fs\StudentsHome\RSW114\My Documents\C# Files\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form3.resources
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form3.resources
+C:\Users\aylith\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\GenerateResource.read.459.tlog
+C:\Users\aylith\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.exe
+C:\Users\aylith\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.pdb
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.exe
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.pdb
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.csprojResolveAssemblyReference.cache
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form1.resources
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form2.resources
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Form3.resources
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.csproj.GenerateResource.Cache
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+D:\Dropbox\C# projects\Assignment 2\Tamagotchi\Tamagotchi\obj\x86\Debug\Tamagotchi.Properties.Resources.resources

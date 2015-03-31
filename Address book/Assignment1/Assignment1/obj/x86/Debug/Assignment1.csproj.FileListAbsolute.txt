@@ -1,0 +1,17 @@
+C:\Users\aylith\C# projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\aylith\C# projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\aylith\C# projects\Assignment1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aylith\C# projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\aylith\C# projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+G:\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+G:\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+G:\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+G:\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+G:\Assignment1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aylith\C# files\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\Aylith\C# files\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+C:\Users\Aylith\C# files\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Aylith\C# files\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Aylith\C# files\Assignment1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aylith\Dropbox\C# projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+C:\Users\aylith\Dropbox\C# projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
